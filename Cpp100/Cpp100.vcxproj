@@ -89,7 +89,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions);_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -154,6 +154,7 @@
     <ClCompile Include="Cpp100.cpp" />
     <ClCompile Include="Cpp100_1.cpp" />
     <ClCompile Include="Cpp100_2.cpp" />
+    <ClCompile Include="Cpp100_3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cpp100.h" />

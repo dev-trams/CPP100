@@ -1,5 +1,4 @@
 #include<iostream>
-#include <string.h>
 #include "Cpp100.h"
 using namespace std;
 void CPP100::Cpp100_Calculator() {

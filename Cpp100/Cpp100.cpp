@@ -6,8 +6,8 @@
 int main()
 {
 	CPP100 cpp100;
-
 	//cpp100.Cpp100_1();
 	//cpp100.Cpp100_Calculator();
-	cpp100.Cpp100_AgeCalculator();
+	//cpp100.Cpp100_AgeCalculator();
+	cpp100.Cpp100_RockScissorsPaper();
 }

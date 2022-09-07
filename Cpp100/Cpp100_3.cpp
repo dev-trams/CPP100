@@ -61,3 +61,5 @@ void CPP100::Cpp100_AgeCalculator() {
 	}
 	cout << endl << "이름: " << name << " 성별: " << sex << " 나이: " << age << " 출생년도: " << year << "-" << uid << endl;
 }
+
+
